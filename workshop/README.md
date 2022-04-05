@@ -3,13 +3,13 @@
 Listagem de clientes utilizando node.js, html e mongodb.
 
 ## Lista Vazia
-![Lista Vazia](./assets/ListaVazia.png)
+![Lista Vazia](./assets/ListaVazia.PNG)
 
 ## Cadastro de cliente
-![Cadastro](./assets/Cadastro.png)
+![Cadastro](./assets/Cadastro.PNG)
 
 ## Edição de cliente
-![Edição](./assets/Edição.png)
+![Edição](./assets/Edicao.PNG)
 
 ## Lista com clientes
-![Lista Preenchida](./assets/ListaPreenchida.png)
+![Lista Preenchida](./assets/ListaPreenchida.PNG)
